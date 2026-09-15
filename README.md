@@ -104,7 +104,7 @@ Relational Schema – represents the relational structure of the database.
 Roll Number	Name	    Responsibility
 25B11AI924	P GOPI	    Wrote DDL scripts (tables, keys, constraints)
 25B11AI333	G JASWANTH	Designed ER diagram & relational schema
-25B11AI186	ESWAR	    Wrote CRUD, JOIN & aggregate queries
+25B11AI182	ESWAR	    Wrote CRUD, JOIN & aggregate queries
 25B11AI223	C CHARAN	Compiled documentation & screenshots
 
 🛠️ Technologies Used
@@ -142,14 +142,4 @@ This project was developed as part of the Database Management Systems (DBMS) cou
 
 👨‍💻 Team
 
-P GOPI • G JASWANTH • ESWAR • C CHARAN
-
-
-### One thing you should change
-
-I used:
-
-```text
-ER DIAGRAM.jpeg
-RELATIONAL SCHEMA DIAGRAM.jpeg
-Bank_Account_Management_Documentation.docx
+PEDDINTI GOPI • GEDE JASWANTH REDDY • CHAMAKURI PHANESWAR RAJA • CHIRLA SRI SAI CHARAN TEJA REDDY
