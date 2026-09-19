@@ -105,7 +105,7 @@ Roll Number	Name	    Responsibility
 25B11AI924	P GOPI	    Wrote DDL scripts (tables, keys, constraints)
 25B11AI333	G JASWANTH	Designed ER diagram & relational schema
 25B11AI182	ESWAR	    Wrote CRUD, JOIN & aggregate queries
-25B11AI223	C CHARAN	Compiled documentation & screenshots
+25B11AI223	CH CHARAN	Compiled documentation & screenshots
 
 🛠️ Technologies Used
 SQL
